@@ -3,7 +3,7 @@
     display: inline-flex;
     flex-direction: column;
     justify-content: space-between;
-    background-color:rgba(29, 23, 23, 0.797);
+    background-color:rgba(85, 60, 60, 0.797);
     padding: 25px 15px;
 }
 .sidebar img{
@@ -25,7 +25,7 @@
     align-items: center;
     gap: 10px;
     padding: 10px 15px;
-    background-color: #000307;
+    background-color: #43474c;
     border-radius: 50px;
     font-size: 14px;
     color: rgb(39, 13, 107);

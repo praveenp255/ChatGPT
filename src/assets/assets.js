@@ -14,7 +14,7 @@ import user_icon from './user_icon.jpeg';
 import youtube_icon from './youtube_icon.png';
 import massage_icon from './massage_icon.png';
 import code_icon from './code_icon.png';
-import send_icon from './send_icon.jpeg';
+import send_icon from './send_icon.png';
 import gemini_icon from './gemini_icon.png';
 
 
