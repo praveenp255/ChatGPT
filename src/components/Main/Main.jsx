@@ -11,7 +11,7 @@ const Main = () => {
   return (
     <div className="main">
       <div className="nav">
-        <p>Praveen</p>
+        <p>Welcome</p>
         <img src={assets.user_icon} alt="" />
       </div>
       <div className="main-container">
@@ -22,7 +22,7 @@ const Main = () => {
         
          <div className="greet">
           <p>
-            <span>Hello, Patel.</span>
+            <span>WELCOME!!</span>
           </p>
           <p>How Can Help You today?</p>
         </div>
